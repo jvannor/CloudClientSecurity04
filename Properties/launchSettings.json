@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "CloudClientSecurity04": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "APP_STORAGE_URI": "VALUE",
+        "APP_SERVICE_URI": "VALUE",
+        "AZURE_CLIENT_SECRET": "VALUE",
+        "APP_STORAGE_CONTAINER": "VALUE",
+        "APP_SERVICE_SCOPE": "VALUE",
+        "AZURE_CLIENT_ID": "VALUE",
+        "AZURE_TENANT_ID": "VALUE"
+      }
+    }
+  }
+}
